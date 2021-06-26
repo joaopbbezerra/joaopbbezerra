@@ -7,7 +7,7 @@
 
   
 
-<a  href="https://github.com/rafaballerini">
+<a  href="https://github.com/joaopbbezerra">
 
   
 
@@ -21,25 +21,19 @@
 
 </div>
 
-  
-
 ##
 
   
 
 <img  align="center"  alt="jp-Js"  height="40"  width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
-  
-  
-  
-
 <img  align="center"  alt="jp-React"  height="40"  width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
-<img  align="center"  alt="jp-nodejs"  height="50"  width="50"  src="  https://user-images.githubusercontent.com/78766133/123516015-eb3a4a80-d691-11eb-8e2c-5b304ffbee6f.png">
+<!-- <img  align="center"  alt="jp-nodejs"  height="50"  width="50"  src="  https://user-images.githubusercontent.com/78766133/123516015-eb3a4a80-d691-11eb-8e2c-5b304ffbee6f.png">
 
-<img  align="center"  alt="jp-mongodb"  height="40"  width="45"  src="  https://user-images.githubusercontent.com/78766133/123516143-8d5a3280-d692-11eb-95c6-b69ace738705.png">
+<img  align="center"  alt="jp-mongodb"  height="40"  width="45"  src="  https://user-images.githubusercontent.com/78766133/123516143-8d5a3280-d692-11eb-95c6-b69ace738705.png"> -->
 
-<img  align="center"  alt="jp-bootsrap"  height="40"  width="40"  src="  https://user-images.githubusercontent.com/78766133/123516501-3f462e80-d694-11eb-8ae8-9c1dc80716c4.png">
+<img  align="center"  alt="jp-bootsrap"  height="40"  width="40"  src="https://user-images.githubusercontent.com/78766133/123516501-3f462e80-d694-11eb-8ae8-9c1dc80716c4.png">
 
 
 <img  align="center"  alt="jp-HTML"  height="40"  width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
