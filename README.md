@@ -23,13 +23,13 @@
 
 ##
 
-  
+<div  style="display: inline_block"><br>
 
 <img  align="center"  alt="jp-Js"  height="40"  width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
 <img  align="center"  alt="jp-React"  height="40"  width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
-<img  align="center"  alt="jp-nodejs"  height="50"  width="50"  src="https://user-images.githubusercontent.com/78766133/123516732-7d901d80-d695-11eb-8c80-ec3dd3cea45a.png"
+<img  align="center"  alt="jp-nodejs"  height="50"  width="50"  src="https://user-images.githubusercontent.com/78766133/123516732-7d901d80-d695-11eb-8c80-ec3dd3cea45a.png">
 
 <img  align="center"  alt="jp-mongodb"  height="40"  width="75"  src="https://user-images.githubusercontent.com/78766133/123516639-0ce90100-d695-11eb-8ca9-4ec85469f9de.png">
 
