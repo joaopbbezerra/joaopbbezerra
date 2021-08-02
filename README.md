@@ -48,7 +48,7 @@
 </div>
 
   
-
+![Snake animation](https://github.com/joaopbbezerra/joaopbbezerra/blob/output/github-contribution-grid-snake.svg)
 ##
 
   
