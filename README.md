@@ -4,12 +4,9 @@
 
 
 <div>
-<a  href="https://github.com/joaopbbezerra">
-<img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=joaopbbezerra&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopbbezerra&layout=compact&langs_count=16&theme=dark"/>
-
-
-
+  <a  href="https://github.com/joaopbbezerra">
+  <img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=joaopbbezerra&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopbbezerra&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 ##
@@ -34,20 +31,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" width="50" alt="mongodb logo"  />
 </div>
 
-
-</div>
-
-
 ![Snake animation](https://github.com/joaopbbezerra/joaopbbezerra/blob/output/github-contribution-grid-snake.svg)
 
 
-
-<div>
-
-
-  <div align="left">
-    <img href="https://www.linkedin.com/in/joaopbbezerra/" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="38" alt="linkedin logo"  />
-    <img href ="mailto:joaopbbezerra@gmail.com" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="38" alt="gmail logo"  />
-  </div>
+  
+<div align="left">
+  <img href="https://www.linkedin.com/in/joaopbbezerra/" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="38" alt="linkedin logo"  />
+  <img href ="mailto:joaopbbezerra@gmail.com" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="38" alt="gmail logo"  />
 </div>
+  
 ##
+  
